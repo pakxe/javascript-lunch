@@ -4,8 +4,6 @@
 //   목록 = 로컬스토리지에서 목록 받아오기
 //   리스트 렌더(목록)
 // }
-import '../templates/style.css';
-import './component/toast/toast.css';
 
 import './images/category-korean.png';
 import './images/category-etc.png';
